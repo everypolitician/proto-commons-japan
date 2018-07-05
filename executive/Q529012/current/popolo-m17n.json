@@ -1,0 +1,109 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:ja": "安倍晋三",
+        "lang:en": "Shinzō Abe"
+      },
+      "id": "Q132345",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q132345"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/abeshinzo"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ja": "山本権兵衛",
+        "lang:en": "Yamamoto Gonnohyōe"
+      },
+      "id": "Q41556",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41556"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:ja": "内閣",
+        "lang:en": "Cabinet of Japan"
+      },
+      "id": "Q529012",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q529012"
+        }
+      ],
+      "area_id": "Q17"
+    },
+    {
+      "name": {
+        "lang:ja": "自由民主党",
+        "lang:en": "Liberal Democratic Party"
+      },
+      "id": "Q232595",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q232595"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41556-045caf2e-48c5-62d4-d6cc-99df5504c828",
+      "person_id": "Q41556",
+      "organization_id": "Q529012",
+      "area_id": "Q17",
+      "role_superclass_code": "Q274948",
+      "role_superclass": {
+        "lang:ja": "内閣総理大臣",
+        "lang:en": "Prime Minister of Japan"
+      },
+      "role_code": "Q274948",
+      "role": {
+        "lang:ja": "内閣総理大臣",
+        "lang:en": "Prime Minister of Japan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q132345-d496fa27-4982-d8a4-1494-def4dd6fe6da",
+      "person_id": "Q132345",
+      "on_behalf_of_id": "Q232595",
+      "organization_id": "Q529012",
+      "area_id": "Q17",
+      "start_date": "2012-12-26",
+      "role_superclass_code": "Q274948",
+      "role_superclass": {
+        "lang:ja": "内閣総理大臣",
+        "lang:en": "Prime Minister of Japan"
+      },
+      "role_code": "Q274948",
+      "role": {
+        "lang:ja": "内閣総理大臣",
+        "lang:en": "Prime Minister of Japan"
+      }
+    }
+  ]
+}
