@@ -1,0 +1,189 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_ja", "name_en", "party", "party_name_ja", "party_name_en", "district", "district_name_ja", "district_name_en", "role", "role_ja", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_ja", "role_superclass_en", "org", "org_ja", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q232595"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Democratic Party"
+      },
+      "party_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "自由民主党"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132345"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Japan"
+      },
+      "district_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "日本"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q274948"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q274948"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Japan"
+      },
+      "role_superclass_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "内閣総理大臣"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Japan"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "内閣総理大臣"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shinzō Abe"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "安倍晋三"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q529012"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Japan"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "内閣"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q132345-d496fa27-4982-d8a4-1494-def4dd6fe6da"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2012-12-26T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "abeshinzo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41556"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Japan"
+      },
+      "district_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "日本"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q274948"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q274948"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Japan"
+      },
+      "role_superclass_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "内閣総理大臣"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Japan"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "内閣総理大臣"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yamamoto Gonnohyōe"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "山本権兵衛"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q529012"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Japan"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "内閣"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q41556-045caf2e-48c5-62d4-d6cc-99df5504c828"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      }
+    } ]
+  }
+}
