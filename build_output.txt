@@ -1,154 +1,115 @@
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
 WARNING: Position 参議院議員 (Q14552828) not in boundary associated_wikidata_positions
-WARNING: the district 北海道選挙区 (Q5878063) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 東京都選挙区 (Q7813827) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 広島県選挙区 (Q11485250) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 栃木県選挙区 (Q7811986) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 神奈川県選挙区 (Q6360260) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 徳島県・高知県選挙区 (Q22130464) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 沖縄県選挙区 (Q7082015) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 福岡県選挙区 (Q5507682) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 山口県選挙区 (Q8047639) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 宮城県選挙区 (Q11453975) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 福岡県選挙区 (Q5507682) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 岐阜県選挙区 (Q11471858) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 千葉県選挙区 (Q11406692) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 石川県選挙区 (Q11586273) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 静岡県選挙区 (Q11663565) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 静岡県選挙区 (Q11663565) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 北海道選挙区 (Q5878063) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 北海道選挙区 (Q5878063) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 愛知県選挙区 (Q4696561) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 長野県選挙区 (Q11654789) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 山梨県選挙区 (Q11469912) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 新潟県選挙区 (Q11503570) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 山口県選挙区 (Q8047639) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 大阪府選挙区 (Q11441412) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 兵庫県選挙区 (Q11393644) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 岐阜県選挙区 (Q11471858) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 神奈川県選挙区 (Q6360260) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 大阪府選挙区 (Q11441412) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 香川県選挙区 (Q11667565) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 愛知県選挙区 (Q4696561) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 千葉県選挙区 (Q11406692) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 富山県選挙区 (Q11456830) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 福岡県選挙区 (Q5507682) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 宮崎県選挙区 (Q11454553) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 熊本県選挙区 (Q11568580) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 栃木県選挙区 (Q7811986) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 広島県選挙区 (Q11485250) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 茨城県選挙区 (Q11617820) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 東京都選挙区 (Q7813827) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 長崎県選挙区 (Q11652864) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 秋田県選挙区 (Q11595726) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 千葉県選挙区 (Q11406692) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 大阪府選挙区 (Q11441412) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 愛媛県選挙区 (Q11493789) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 山形県選挙区 (Q11468651) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 青森県選挙区 (Q11662532) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 秋田県選挙区 (Q11595726) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 群馬県選挙区 (Q5618878) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 京都府選挙区 (Q11375570) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 茨城県選挙区 (Q11617820) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 長崎県選挙区 (Q11652864) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 愛知県選挙区 (Q4696561) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 神奈川県選挙区 (Q6360260) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 島根県選挙区 (Q11476758) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 神奈川県選挙区 (Q6360260) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 大阪府選挙区 (Q11441412) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 高知県選挙区 (Q11672539) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 福井県選挙区 (Q11591709) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 大阪府選挙区 (Q11441412) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 富山県選挙区 (Q11456830) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 徳島県選挙区 (Q7813765) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 滋賀県選挙区 (Q11564965) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 奈良県選挙区 (Q11445411) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 広島県選挙区 (Q11485250) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 鳥取県選挙区 (Q11674827) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 愛知県選挙区 (Q4696561) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 埼玉県選挙区 (Q11427133) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 佐賀県選挙区 (Q11384873) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 香川県選挙区 (Q11667565) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 三重県選挙区 (Q11358172) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 千葉県選挙区 (Q11406692) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 神奈川県選挙区 (Q6360260) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 鳥取県・島根県選挙区 (Q21653763) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 福島県選挙区 (Q11593690) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 福井県選挙区 (Q11591709) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 福島県選挙区 (Q11593690) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 岡山県選挙区 (Q11472732) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 長野県選挙区 (Q11654789) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 滋賀県選挙区 (Q11564965) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 岩手県選挙区 (Q6100804) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 山梨県選挙区 (Q11469912) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 東京都選挙区 (Q7813827) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 愛知県選挙区 (Q4696561) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 大阪府選挙区 (Q11441412) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 兵庫県選挙区 (Q11393644) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 兵庫県選挙区 (Q11393644) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 大阪府選挙区 (Q11441412) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 福岡県選挙区 (Q5507682) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 神奈川県選挙区 (Q6360260) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 愛知県選挙区 (Q4696561) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 奈良県選挙区 (Q11445411) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 参議院比例区 (Q11410207) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 神奈川県選挙区 (Q6360260) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 茨城県選挙区 (Q11617820) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 北海道選挙区 (Q5878063) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 茨城県選挙区 (Q11617820) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 兵庫県選挙区 (Q11393644) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 東京都選挙区 (Q7813827) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 東京都選挙区 (Q7813827) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 京都府選挙区 (Q11375570) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 千葉県選挙区 (Q11406692) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 北海道選挙区 (Q5878063) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 岡山県選挙区 (Q11472732) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 鹿児島県選挙区 (Q11676977) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 神奈川県選挙区 (Q6360260) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 三重県選挙区 (Q11358172) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 長野県選挙区 (Q11654789) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 和歌山県選挙区 (Q11417676) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 新潟県選挙区 (Q11503570) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 埼玉県選挙区 (Q11427133) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 宮城県選挙区 (Q11453975) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 千葉県選挙区 (Q11406692) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 愛媛県選挙区 (Q11493789) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 静岡県選挙区 (Q11663565) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 沖縄県選挙区 (Q7082015) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 東京都選挙区 (Q7813827) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 広島県選挙区 (Q11485250) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 東京都選挙区 (Q7813827) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 愛知県選挙区 (Q4696561) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 参議院比例区 (Q11410207) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 埼玉県選挙区 (Q11427133) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 埼玉県選挙区 (Q11427133) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 福岡県選挙区 (Q5507682) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 埼玉県選挙区 (Q11427133) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 青森県選挙区 (Q11662532) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 新潟県選挙区 (Q11503570) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 石川県選挙区 (Q11586273) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 京都府選挙区 (Q11375570) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 京都府選挙区 (Q11375570) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 宮崎県選挙区 (Q11454553) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 兵庫県選挙区 (Q11393644) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 大分県選挙区 (Q11432995) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 京都府選挙区 (Q11375570) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 佐賀県選挙区 (Q11384873) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 参議院比例区 (Q11410207) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 静岡県選挙区 (Q11663565) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 大阪府選挙区 (Q11441412) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 東京都選挙区 (Q7813827) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 鹿児島県選挙区 (Q11676977) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 埼玉県選挙区 (Q11427133) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 山形県選挙区 (Q11468651) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 熊本県選挙区 (Q11568580) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 大分県選挙区 (Q11432995) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 和歌山県選挙区 (Q11417676) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 群馬県選挙区 (Q5618878) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 宮城県選挙区 (Q11453975) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 東京都選挙区 (Q7813827) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 東京都選挙区 (Q7813827) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 岩手県選挙区 (Q6100804) wasn't found in the boundary data for position 参議院議員 (Q14552828)
-WARNING: the district 東京都選挙区 (Q7813827) wasn't found in the boundary data for position 参議院議員 (Q14552828)
+WARNING: Position 衆議院議員 (Q17506823) not in boundary associated_wikidata_positions
 WARNING: Position 衆議院議員 (Q17506823) not in boundary associated_wikidata_positions
 WARNING: the district 北海道第9区 (Q9499044) wasn't found in the boundary data for position 衆議院議員 (Q17506823)
 WARNING: the district 千葉県第12区 (Q11406378) wasn't found in the boundary data for position 衆議院議員 (Q17506823)
@@ -631,116 +592,6 @@ WARNING: the district 青森県第2区 (Q11662287) wasn't found in the boundary 
 WARNING: the district 比例東北ブロック (Q49913) wasn't found in the boundary data for position 衆議院議員 (Q17506823)
 WARNING: the district 千葉県第4区 (Q5095299) wasn't found in the boundary data for position 衆議院議員 (Q17506823)
 WARNING: the district 福島県第3区 (Q5507720) wasn't found in the boundary data for position 衆議院議員 (Q17506823)
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
 WARNING: Position [no item] not in boundary associated_wikidata_positions
 WARNING: Position [no item] not in boundary associated_wikidata_positions
 WARNING: Position [no item] not in boundary associated_wikidata_positions

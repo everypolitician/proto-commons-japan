@@ -1,23 +1,12 @@
 [
   {
-    "comment": "House of Councillors",
-    "house_item_id": "Q548911",
-    "position_item_id": "Q14552828",
+    "comment": "Saitama City Council",
+    "house_item_id": "Q11267507",
+    "position_item_id": null,
     "terms": [
       {
         "start_date": "2018-01-01",
         "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "House of Representatives",
-    "house_item_id": "Q659587",
-    "position_item_id": "Q17506823",
-    "terms": [
-      {
-        "comment": "Term for House of Representatives 48th general election",
-        "term_item_id": "Q41655079"
       }
     ]
   },
@@ -77,6 +66,17 @@
     ]
   },
   {
+    "comment": "名古屋市会",
+    "house_item_id": "Q11414977",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
     "comment": "Wakayama Prefectural Assembly",
     "house_item_id": "Q11417490",
     "position_item_id": null,
@@ -99,8 +99,30 @@
     ]
   },
   {
+    "comment": "堺市議会",
+    "house_item_id": "Q11428289",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
     "comment": "Ōita Prefectural Assembly",
     "house_item_id": "Q11432915",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "大阪市会",
+    "house_item_id": "Q11440243",
     "position_item_id": null,
     "terms": [
       {
@@ -233,6 +255,17 @@
   {
     "comment": "Shimane Prefectural Assembly",
     "house_item_id": "Q11476535",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "広島市議会",
+    "house_item_id": "Q11484650",
     "position_item_id": null,
     "terms": [
       {
@@ -495,105 +528,6 @@
     ]
   },
   {
-    "comment": "Aichi Prefectural Assembly",
-    "house_item_id": "Q4696581",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Mie Prefectural Assembly",
-    "house_item_id": "Q6843517",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Okinawa Prefectural Assembly",
-    "house_item_id": "Q7082028",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Tokyo Metropolitan Assembly",
-    "house_item_id": "Q7813951",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Saitama City Council",
-    "house_item_id": "Q11267507",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "名古屋市会",
-    "house_item_id": "Q11414977",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "堺市議会",
-    "house_item_id": "Q11428289",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "大阪市会",
-    "house_item_id": "Q11440243",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "広島市議会",
-    "house_item_id": "Q11484650",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
     "comment": "新潟市議会",
     "house_item_id": "Q16482366",
     "position_item_id": null,
@@ -682,7 +616,7 @@
     ]
   },
   {
-    "comment": "那覇市議会",
+    "comment": "Naha City Assembly",
     "house_item_id": "Q24861384",
     "position_item_id": null,
     "terms": [
@@ -1256,6 +1190,76 @@
   {
     "comment": "豊橋市議会",
     "house_item_id": "Q30092374",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Aichi Prefectural Assembly",
+    "house_item_id": "Q4696581",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "House of Councillors",
+    "house_item_id": "Q548911",
+    "position_item_id": "Q14552828",
+    "terms": [
+      {
+        "comment": "第196回国会",
+        "term_item_id": "Q48762038"
+      }
+    ]
+  },
+  {
+    "comment": "House of Representatives",
+    "house_item_id": "Q659587",
+    "position_item_id": "Q17506823",
+    "terms": [
+      {
+        "comment": "第196回国会",
+        "term_item_id": "Q48762038"
+      },
+      {
+        "comment": "Term for House of Representatives 48th general election",
+        "term_item_id": "Q41655079"
+      }
+    ]
+  },
+  {
+    "comment": "Mie Prefectural Assembly",
+    "house_item_id": "Q6843517",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Okinawa Prefectural Assembly",
+    "house_item_id": "Q7082028",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Tokyo Metropolitan Assembly",
+    "house_item_id": "Q7813951",
     "position_item_id": null,
     "terms": [
       {
