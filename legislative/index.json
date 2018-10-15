@@ -1215,8 +1215,8 @@
     "position_item_id": "Q14552828",
     "terms": [
       {
-        "comment": "第196回国会",
-        "term_item_id": "Q48762038"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -1225,10 +1225,6 @@
     "house_item_id": "Q659587",
     "position_item_id": "Q17506823",
     "terms": [
-      {
-        "comment": "第196回国会",
-        "term_item_id": "Q48762038"
-      },
       {
         "comment": "Term for House of Representatives 48th general election",
         "term_item_id": "Q41655079"
