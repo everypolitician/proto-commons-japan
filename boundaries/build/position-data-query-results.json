@@ -1,0 +1,194 @@
+{
+  "head" : {
+    "vars" : [ "position", "position_name_ja", "position_name_en", "positionType", "adminAreaTypes", "adminArea", "admin_area_ja", "admin_area_en", "positionSuperclass", "position_superclass_ja", "position_superclass_en", "body", "body_ja", "body_en" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14552828"
+      },
+      "position_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "参議院議員"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Councillors"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "admin_area_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "日本"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Japan"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q548911"
+      },
+      "body_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "参議院"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Councillors"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17506823"
+      },
+      "position_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院議員"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Representatives of Japan"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "admin_area_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "日本"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Japan"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659587"
+      },
+      "body_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Representatives"
+      },
+      "position_superclass_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "国民議会議員"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q274948"
+      },
+      "position_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "内閣総理大臣"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Japan"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "admin_area_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "日本"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Japan"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prime minister"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q529012"
+      },
+      "body_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "内閣"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Japan"
+      },
+      "position_superclass_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "首相"
+      }
+    } ]
+  }
+}
