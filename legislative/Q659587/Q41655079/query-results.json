@@ -101,14 +101,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "jimusyo.horiimanabu"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido 9th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "jimusyo.horiimanabu"
       }
     }, {
       "party" : {
@@ -311,14 +311,121 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kisaburo.tokai"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hyogo 10th district"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q232595"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Democratic Party"
+      },
+      "party_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "自由民主党"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1133192-D5733047-060F-42C4-AB94-327CDDB8A7A6"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11476527"
+      },
+      "district_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "島根県第1区"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "国民議会議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17506823"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Representatives of Japan"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1133192"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hiroyuki Hosoda"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "細田博之"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659587"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Representatives"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "465"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1990-01-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
-        "value" : "kisaburo.tokai"
+        "value" : "hiroyuki.hosoda.54"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shimane 1st District"
       }
     }, {
       "party" : {
@@ -418,14 +525,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hiroyuki.hosoda.54"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Shimane 1st District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hiroyuki.hosoda.54"
       }
     }, {
       "party" : {
@@ -726,14 +833,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100005800475952"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Wakayama 3rd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100005800475952"
       }
     }, {
       "party" : {
@@ -935,14 +1042,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hosono54"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Shizuoka 5th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hosono54"
       }
     }, {
       "party" : {
@@ -1041,15 +1148,15 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Southern Kanto proportional representation block"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "hidehiromitani"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Southern Kanto proportional representation block"
       }
     }, {
       "party" : {
@@ -1149,14 +1256,93 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "mitani.office"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q11360103-43ed078a-40bf-105b-ec66-7c535eb3c51e"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "国民議会議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17506823"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Representatives of Japan"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11360103"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sayuri Uenishi"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "上西小百合"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659587"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Representatives"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "465"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2012-01-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
-        "value" : "mitani.office"
+        "value" : "uenishi.sayuri"
       }
     }, {
       "party" : {
@@ -1256,14 +1442,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "ueno.hiroshi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "ueno.hiroshi"
       }
     }, {
       "party" : {
@@ -1466,14 +1652,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100003030648555"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Yamanashi 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100003030648555"
       }
     }, {
       "party" : {
@@ -1573,14 +1759,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hiroyuki.nakamura.1466126"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido 4th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hiroyuki.nakamura.1466126"
       }
     }, {
       "party" : {
@@ -1680,14 +1866,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "nakanohiromasa.office"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hyogo 8th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "nakanohiromasa.office"
       }
     }, {
       "party" : {
@@ -1787,14 +1973,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "maruyamahodaka"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Osaka 19th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "maruyamahodaka"
       }
     }, {
       "party" : {
@@ -1893,15 +2079,15 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kinki proportional representation block"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "hidetaka.inoue.5"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinki proportional representation block"
       }
     }, {
       "party" : {
@@ -2001,14 +2187,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "inouehidetaka.ishin"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "inouehidetaka.ishin"
       }
     }, {
       "party" : {
@@ -2508,14 +2694,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "masato.imai.7"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "masato.imai.7"
       }
     }, {
       "party" : {
@@ -2819,14 +3005,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "itoyoshitaka07"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido 7th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "itoyoshitaka07"
       }
     }, {
       "party" : {
@@ -2926,14 +3112,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hidemichi.sato.7"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hidemichi.sato.7"
       }
     }, {
       "party" : {
@@ -3033,14 +3219,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yagi.aichi11"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yagi.aichi11"
       }
     }, {
       "party" : {
@@ -3140,14 +3326,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "h.togachan"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Akita 1st District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "h.togachan"
       }
     }, {
       "party" : {
@@ -3247,14 +3433,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "akihiro.hatsushika"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "akihiro.hatsushika"
       }
     }, {
       "party" : {
@@ -3457,14 +3643,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Katsumata-Takaaki-100002449220587"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "Katsumata-Takaaki-100002449220587"
       }
     }, {
       "party" : {
@@ -3564,14 +3750,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kenji.harada.12"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Osaka 9th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kenji.harada.12"
       }
     }, {
       "party" : {
@@ -3875,14 +4061,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "YoshikawaHajime.Oita"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyūshū"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "YoshikawaHajime.Oita"
       }
     }, {
       "party" : {
@@ -3982,14 +4168,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100006068624077"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100006068624077"
       }
     }, {
       "party" : {
@@ -4089,14 +4275,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kokubakonosuke"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyūshū"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kokubakonosuke"
       }
     }, {
       "party" : {
@@ -4396,14 +4582,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takashi.kii"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyūshū"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takashi.kii"
       }
     }, {
       "party" : {
@@ -4703,14 +4889,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "masaki.ogushi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hyogo 6th District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "masaki.ogushi"
       }
     }, {
       "party" : {
@@ -4810,14 +4996,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "OguchiYoshinori"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "OguchiYoshinori"
       }
     }, {
       "party" : {
@@ -4917,14 +5103,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "toshitaka.ooka"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Shiga 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "toshitaka.ooka"
       }
     }, {
       "party" : {
@@ -5224,14 +5410,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100011041118044"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100011041118044"
       }
     }, {
       "party" : {
@@ -5433,14 +5619,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "1438111769749344"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "1438111769749344"
       }
     }, {
       "party" : {
@@ -5540,14 +5726,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hiroshi.ando.9"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyoto 6th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hiroshi.ando.9"
       }
     }, {
       "party" : {
@@ -5749,14 +5935,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "noriko.miyagawa.50"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "noriko.miyagawa.50"
       }
     }, {
       "party" : {
@@ -5856,14 +6042,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takeshi.miyamoto.5661"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takeshi.miyamoto.5661"
       }
     }, {
       "party" : {
@@ -6266,14 +6452,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "fumiaki.kobayashi0408"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hiroshima 7th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "fumiaki.kobayashi0408"
       }
     }, {
       "party" : {
@@ -6676,14 +6862,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "shinji.oguma.5"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tohoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "shinji.oguma.5"
       }
     }, {
       "party" : {
@@ -6783,14 +6969,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "小田原きよし-319460971405607"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "小田原きよし-319460971405607"
       }
     }, {
       "party" : {
@@ -6890,14 +7076,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "AsakoOmi.jp"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gunma 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "AsakoOmi.jp"
       }
     }, {
       "party" : {
@@ -6997,14 +7183,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takashi.yamashita.7"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Okayama 2nd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takashi.yamashita.7"
       }
     }, {
       "party" : {
@@ -7104,14 +7290,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yamanoikazunori"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yamanoikazunori"
       }
     }, {
       "party" : {
@@ -7211,14 +7397,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100011506096100"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyūshū"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100011506096100"
       }
     }, {
       "party" : {
@@ -7318,14 +7504,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yamaoshiori"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Aichi 7th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yamaoshiori"
       }
     }, {
       "party" : {
@@ -7631,14 +7817,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "polepole.ty"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "polepole.ty"
       }
     }, {
       "party" : {
@@ -7738,14 +7924,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "mikiprofile"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "mikiprofile"
       }
     }, {
       "party" : {
@@ -7845,14 +8031,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kenji.yamada.54"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hyogo 7th District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kenji.yamada.54"
       }
     }, {
       "party" : {
@@ -7952,14 +8138,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yamahana.ikuo"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yamahana.ikuo"
       }
     }, {
       "party" : {
@@ -8059,14 +8245,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kazumasa.okajima"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kazumasa.okajima"
       }
     }, {
       "party" : {
@@ -8166,14 +8352,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kazuchika.iwata"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyūshū"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kazuchika.iwata"
       }
     }, {
       "party" : {
@@ -8477,14 +8663,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "face.goto"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "face.goto"
       }
     }, {
       "party" : {
@@ -8687,14 +8873,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "saikitakeshi1974"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokuriku-Shin'etsu proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "saikitakeshi1974"
       }
     }, {
       "party" : {
@@ -8794,14 +8980,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hossys"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hossys"
       }
     }, {
       "party" : {
@@ -9101,14 +9287,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hondahiranao"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hondahiranao"
       }
     }, {
       "party" : {
@@ -9311,14 +9497,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kazumi.sugimoto.90"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kazumi.sugimoto.90"
       }
     }, {
       "party" : {
@@ -9418,14 +9604,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "mio.sugita.5"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chūgoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "mio.sugita.5"
       }
     }, {
       "party" : {
@@ -9525,14 +9711,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100011741872006"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100011741872006"
       }
     }, {
       "party" : {
@@ -9734,14 +9920,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "mito.kakizawa"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "mito.kakizawa"
       }
     }, {
       "party" : {
@@ -9939,14 +10125,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "genki.m0rim0ri"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "genki.m0rim0ri"
       }
     }, {
       "party" : {
@@ -10144,14 +10330,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "syunsuke.takei"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Miyazaki 1st District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "syunsuke.takei"
       }
     }, {
       "party" : {
@@ -10251,14 +10437,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takeisyunsuke"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Miyazaki 1st District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takeisyunsuke"
       }
     }, {
       "party" : {
@@ -10460,14 +10646,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takebearata"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido 12th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takebearata"
       }
     }, {
       "party" : {
@@ -10567,14 +10753,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yoshitaka.ikeda.902"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yoshitaka.ikeda.902"
       }
     }, {
       "party" : {
@@ -10973,14 +11159,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "jun.tsushima.5"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Aomori 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "jun.tsushima.5"
       }
     }, {
       "party" : {
@@ -11080,14 +11266,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yasuto.urano"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yasuto.urano"
       }
     }, {
       "party" : {
@@ -11187,14 +11373,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "naomi.tokashiki.7"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Osaka 7th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "naomi.tokashiki.7"
       }
     }, {
       "party" : {
@@ -11396,14 +11582,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "watanabekoichi1957"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "watanabekoichi1957"
       }
     }, {
       "party" : {
@@ -11503,14 +11689,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hamamurasusumu"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hamamurasusumu"
       }
     }, {
       "party" : {
@@ -11815,14 +12001,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "denny.tamaki"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Okinawa 3rd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "denny.tamaki"
       }
     }, {
       "party" : {
@@ -11922,14 +12108,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "tamakiyuichiro"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kagawa 2nd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "tamakiyuichiro"
       }
     }, {
       "party" : {
@@ -12234,14 +12420,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "tsuyoshi.tabata.39"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "tsuyoshi.tabata.39"
       }
     }, {
       "party" : {
@@ -12340,15 +12526,15 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Toyama 1st District"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "hiroaki.tabata.37"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Toyama 1st District"
       }
     }, {
       "party" : {
@@ -12448,14 +12634,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "tabatahiroakiteam"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Toyama 1st District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "tabatahiroakiteam"
       }
     }, {
       "party" : {
@@ -12555,14 +12741,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "tanose.kashihara"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Nara 3rd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "tanose.kashihara"
       }
     }, {
       "party" : {
@@ -12662,14 +12848,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kimie.hatano.9"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kimie.hatano.9"
       }
     }, {
       "party" : {
@@ -12871,14 +13057,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "白須賀貴樹-100006715721289"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chiba 13th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "白須賀貴樹-100006715721289"
       }
     }, {
       "party" : {
@@ -13081,14 +13267,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "tohru.ishizaki"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokuriku-Shin'etsu proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "tohru.ishizaki"
       }
     }, {
       "party" : {
@@ -13598,14 +13784,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "shuji.inatomi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyūshū"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "shuji.inatomi"
       }
     }, {
       "party" : {
@@ -13624,16 +13810,16 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q11596723-27442288-F585-41DE-8B3C-6E681466EC24"
+        "value" : "http://www.wikidata.org/entity/statement/Q11596723-c835b0ac-4d73-bb34-1499-c1718835ffdd"
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11402999"
+        "value" : "http://www.wikidata.org/entity/Q5878130"
       },
       "district_name_ja" : {
         "xml:lang" : "ja",
         "type" : "literal",
-        "value" : "北海道第10区"
+        "value" : "比例北海道ブロック"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -13703,16 +13889,551 @@
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2017-10-22T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hokkaido 10th district"
+        "value" : "2009-08-31T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "inatsu.komei"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hokkaido proportional representation block"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061354"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Komeito"
+      },
+      "party_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "公明党"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q11596723-c835b0ac-4d73-bb34-1499-c1718835ffdd"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5878130"
+      },
+      "district_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "比例北海道ブロック"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "国民議会議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17506823"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Representatives of Japan"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11596723"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hisashi Inatsu"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "稲津久"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659587"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Representatives"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "465"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-08-31T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "inatsu.news"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hokkaido proportional representation block"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061354"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Komeito"
+      },
+      "party_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "公明党"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q11596723-b1c9378a-4808-04f8-d014-cd182f739df8"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11402999"
+      },
+      "district_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "北海道第10区"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "国民議会議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17506823"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Representatives of Japan"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11596723"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hisashi Inatsu"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "稲津久"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659587"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Representatives"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "465"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2012-12-16T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "inatsu.komei"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hokkaido 10th district"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061354"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Komeito"
+      },
+      "party_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "公明党"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q11596723-b1c9378a-4808-04f8-d014-cd182f739df8"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11402999"
+      },
+      "district_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "北海道第10区"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "国民議会議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17506823"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Representatives of Japan"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11596723"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hisashi Inatsu"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "稲津久"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659587"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Representatives"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "465"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2012-12-16T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "inatsu.news"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hokkaido 10th district"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061354"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Komeito"
+      },
+      "party_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "公明党"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q11596723-be2ee368-4076-b434-8923-b14ea8843d2f"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11402999"
+      },
+      "district_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "北海道第10区"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "国民議会議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17506823"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Representatives of Japan"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11596723"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hisashi Inatsu"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "稲津久"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659587"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Representatives"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "465"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-14T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "inatsu.komei"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hokkaido 10th district"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061354"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Komeito"
+      },
+      "party_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "公明党"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q11596723-be2ee368-4076-b434-8923-b14ea8843d2f"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11402999"
+      },
+      "district_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "北海道第10区"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "国民議会議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17506823"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Representatives of Japan"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11596723"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hisashi Inatsu"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "稲津久"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659587"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Representatives"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "465"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-14T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "inatsu.news"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hokkaido 10th district"
       }
     }, {
       "party" : {
@@ -13812,14 +14533,121 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "inatsu.komei"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido 10th district"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061354"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Komeito"
+      },
+      "party_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "公明党"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q11596723-27442288-F585-41DE-8B3C-6E681466EC24"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11402999"
+      },
+      "district_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "北海道第10区"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "国民議会議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17506823"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Representatives of Japan"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11596723"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hisashi Inatsu"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "稲津久"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659587"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Representatives"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "465"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-10-22T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "inatsu.news"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hokkaido 10th district"
       }
     }, {
       "party" : {
@@ -13919,14 +14747,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "anamiyoichi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Oita 1st District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "anamiyoichi"
       }
     }, {
       "party" : {
@@ -14026,14 +14854,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takeuchi.yuzuru"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takeuchi.yuzuru"
       }
     }, {
       "party" : {
@@ -14235,14 +15063,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Yanakazuo"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tochigi 3rd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "Yanakazuo"
       }
     }, {
       "party" : {
@@ -14342,14 +15170,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100008738145092"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokuriku-Shin'etsu proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100008738145092"
       }
     }, {
       "party" : {
@@ -14551,14 +15379,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "河野太郎-168727046514485"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kanagawa 15th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "河野太郎-168727046514485"
       }
     }, {
       "party" : {
@@ -14658,14 +15486,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "funahashi.toshimitsu"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "funahashi.toshimitsu"
       }
     }, {
       "party" : {
@@ -14765,14 +15593,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "sugawaraisshu"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo 9th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "sugawaraisshu"
       }
     }, {
       "party" : {
@@ -15068,14 +15896,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "FujiiHisayuki"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hyogo 4th District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "FujiiHisayuki"
       }
     }, {
       "party" : {
@@ -15175,14 +16003,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100004477178223"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tohoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100004477178223"
       }
     }, {
       "party" : {
@@ -15282,14 +16110,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kousaburou.nishime"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Okinawa 4th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kousaburou.nishime"
       }
     }, {
       "party" : {
@@ -15389,14 +16217,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "issue.net"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "issue.net"
       }
     }, {
       "party" : {
@@ -15496,14 +16324,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kiyototsujitokyo2nd"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo 2nd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kiyototsujitokyo2nd"
       }
     }, {
       "party" : {
@@ -16417,14 +17245,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "suzuki.jyunji"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "suzuki.jyunji"
       }
     }, {
       "party" : {
@@ -16724,14 +17552,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hirofumi.kado"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hirofumi.kado"
       }
     }, {
       "party" : {
@@ -16825,15 +17653,15 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "465"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hokkaido 11th district"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "ishikawa.kaori.12"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hokkaido 11th district"
       }
     }, {
       "party" : {
@@ -16928,14 +17756,14 @@
         "type" : "literal",
         "value" : "465"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kaori.ishikawa.tokachi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido 11th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kaori.ishikawa.tokachi"
       }
     }, {
       "party" : {
@@ -17138,14 +17966,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "aoyagy.net"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kanagawa 6th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "aoyagy.net"
       }
     }, {
       "party" : {
@@ -17245,14 +18073,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yoichiro.aoyagi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kanagawa 6th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yoichiro.aoyagi"
       }
     }, {
       "party" : {
@@ -17352,14 +18180,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "baba.ishin"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Osaka 17th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "baba.ishin"
       }
     }, {
       "party" : {
@@ -17459,14 +18287,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takaitakashi.ugokebakawaru"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chūgoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takaitakashi.ugokebakawaru"
       }
     }, {
       "party" : {
@@ -17566,14 +18394,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "TakahashiHinako"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tohoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "TakahashiHinako"
       }
     }, {
       "party" : {
@@ -18176,14 +19004,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yoshihide.suga"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kanagawa 2nd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yoshihide.suga"
       }
     }, {
       "party" : {
@@ -18283,14 +19111,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takeaki.matsumoto.94"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hyogo 11th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takeaki.matsumoto.94"
       }
     }, {
       "party" : {
@@ -18488,14 +19316,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "abeshinzo"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Yamaguchi 4th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "abeshinzo"
       }
     }, {
       "party" : {
@@ -18698,14 +19526,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "ishibashigeru"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tottori 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "ishibashigeru"
       }
     }, {
       "party" : {
@@ -18805,14 +19633,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "matsubara.jin.office"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "matsubara.jin.office"
       }
     }, {
       "party" : {
@@ -19010,14 +19838,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Satoshi.Arai21"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido 3rd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "Satoshi.Arai21"
       }
     }, {
       "party" : {
@@ -19215,14 +20043,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "1510624319207568"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Niigata 5th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "1510624319207568"
       }
     }, {
       "party" : {
@@ -19425,14 +20253,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "okamoto.office"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Northern Kantō proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "okamoto.office"
       }
     }, {
       "party" : {
@@ -19532,14 +20360,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "tomomi.inada.5"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Fukui 1st District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "tomomi.inada.5"
       }
     }, {
       "party" : {
@@ -19843,14 +20671,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hakubun.shimomura"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo 11th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hakubun.shimomura"
       }
     }, {
       "party" : {
@@ -20351,14 +21179,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kanekomasuo"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kagoshima 2nd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kanekomasuo"
       }
     }, {
       "party" : {
@@ -20659,14 +21487,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "furuyakeiji"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gifu 5th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "furuyakeiji"
       }
     }, {
       "party" : {
@@ -20869,14 +21697,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "saitohiroaki2"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokuriku-Shin'etsu proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "saitohiroaki2"
       }
     }, {
       "party" : {
@@ -20976,14 +21804,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hajime.sasaki.56"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Ishikawa 2nd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hajime.sasaki.56"
       }
     }, {
       "party" : {
@@ -21082,15 +21910,15 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hokkaido proportional representation block"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "takako.daichi"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hokkaido proportional representation block"
       }
     }, {
       "party" : {
@@ -21190,14 +22018,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takakosuzukidaichi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takakosuzukidaichi"
       }
     }, {
       "party" : {
@@ -21297,14 +22125,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hideyuki.tanaka.790"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyoto 4th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hideyuki.tanaka.790"
       }
     }, {
       "party" : {
@@ -21507,14 +22335,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hamachi.masakazu"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyūshū"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hamachi.masakazu"
       }
     }, {
       "party" : {
@@ -21820,14 +22648,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "ShimojiMikio"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyūshū"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "ShimojiMikio"
       }
     }, {
       "party" : {
@@ -22338,14 +23166,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takaaki.tamura.16"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyūshū"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takaaki.tamura.16"
       }
     }, {
       "party" : {
@@ -22445,14 +23273,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "fujino.yasufumi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokuriku-Shin'etsu proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "fujino.yasufumi"
       }
     }, {
       "party" : {
@@ -22757,14 +23585,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "nobuko.motomura.3"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "nobuko.motomura.3"
       }
     }, {
       "party" : {
@@ -23580,14 +24408,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "shohei.okashita"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "shohei.okashita"
       }
     }, {
       "party" : {
@@ -23687,14 +24515,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "noborukamitani412"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "noborukamitani412"
       }
     }, {
       "party" : {
@@ -23794,14 +24622,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yayoi.kimura.35"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yayoi.kimura.35"
       }
     }, {
       "party" : {
@@ -23901,14 +24729,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Go.Shinohara.Go"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "Go.Shinohara.Go"
       }
     }, {
       "party" : {
@@ -24111,14 +24939,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "tanigawa.tom"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "tanigawa.tom"
       }
     }, {
       "party" : {
@@ -24224,6 +25052,85 @@
         "value" : "Miyagi 5th district"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q21655823-332c901b-46d4-11ac-9ec9-c64a37a9ea93"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "国民議会議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17506823"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Representatives of Japan"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21655823"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Takuma Miyaji"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "宮路拓馬"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659587"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Representatives"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "465"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "miyaji.takuma"
+      }
+    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q232595"
@@ -24321,14 +25228,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "miyaji.takuma"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyūshū"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "miyaji.takuma"
       }
     }, {
       "party" : {
@@ -24428,14 +25335,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "wadayoshiaki5"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido 5th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "wadayoshiaki5"
       }
     }, {
       "party" : {
@@ -24633,14 +25540,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "tatsuo.fukuda.9"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gunma 4th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "tatsuo.fukuda.9"
       }
     }, {
       "party" : {
@@ -24843,14 +25750,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100008253606732"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100008253606732"
       }
     }, {
       "party" : {
@@ -24950,14 +25857,107 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "nagatsumaakira"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo 7th district"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q265174-f9d8d470-4d41-87b4-9257-b9cd6a7a6208"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q376715"
+      },
+      "district_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "大阪府第12区"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role_superclass_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "国民議会議員"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17506823"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Representatives of Japan"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q265174"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tomokatsu Kitagawa"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "北川知克"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659587"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Representatives"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "衆議院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "465"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2012-01-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
-        "value" : "nagatsumaakira"
+        "value" : "tomokatsu.kitagawa"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Osaka 12th district"
       }
     }, {
       "party" : {
@@ -25057,14 +26057,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "tomokatsu.kitagawa"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Osaka 12th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "tomokatsu.kitagawa"
       }
     }, {
       "party" : {
@@ -25267,14 +26267,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hiroshi.hase"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Ishikawa 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hiroshi.hase"
       }
     }, {
       "party" : {
@@ -25882,14 +26882,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yokomitu10.22"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyūshū"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yokomitu10.22"
       }
     }, {
       "party" : {
@@ -26091,14 +27091,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "shiozakiyasuhisa"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Ehime 1st District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "shiozakiyasuhisa"
       }
     }, {
       "party" : {
@@ -26198,14 +27198,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "nariaki.nakayama"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyūshū"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "nariaki.nakayama"
       }
     }, {
       "party" : {
@@ -26403,14 +27403,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "SeishiroEto"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Ōita 2nd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "SeishiroEto"
       }
     }, {
       "party" : {
@@ -26510,14 +27510,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100005838250019"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Osaka 10th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100005838250019"
       }
     }, {
       "party" : {
@@ -26720,14 +27720,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "inouekazunori0731"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "inouekazunori0731"
       }
     }, {
       "party" : {
@@ -26826,15 +27826,15 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kinki proportional representation block"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "natsue.mori.56"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinki proportional representation block"
       }
     }, {
       "party" : {
@@ -26934,14 +27934,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Natsue.Mori.page"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "Natsue.Mori.page"
       }
     }, {
       "party" : {
@@ -27041,14 +28041,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "shunsuke.ishin"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "shunsuke.ishin"
       }
     }, {
       "party" : {
@@ -27148,14 +28148,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "michishitadaiki"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "michishitadaiki"
       }
     }, {
       "party" : {
@@ -27460,14 +28460,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "okamotoakikoofficial"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tohoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "okamotoakikoofficial"
       }
     }, {
       "party" : {
@@ -27567,14 +28567,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "緑川たかし-353651984803963"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tohoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "緑川たかし-353651984803963"
       }
     }, {
       "party" : {
@@ -27674,14 +28674,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kentaro.uesugi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tohoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kentaro.uesugi"
       }
     }, {
       "party" : {
@@ -27781,14 +28781,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "satoshi.asano.564"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Northern Kantō proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "satoshi.asano.564"
       }
     }, {
       "party" : {
@@ -27888,14 +28888,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "aoyamayamato"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Northern Kantō proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "aoyamayamato"
       }
     }, {
       "party" : {
@@ -28097,14 +29097,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "nakasone0119"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Northern Kantō proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "nakasone0119"
       }
     }, {
       "party" : {
@@ -28307,14 +29307,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "MORIMORI.MORITA.TOSHIKAZU"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Northern Kantō proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "MORIMORI.MORITA.TOSHIKAZU"
       }
     }, {
       "party" : {
@@ -28414,14 +29414,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yuriko.yamakawa.35"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Northern Kantō proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yuriko.yamakawa.35"
       }
     }, {
       "party" : {
@@ -28726,14 +29726,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "自由民主党千葉県第四選挙区支部長-木村てつや事務所-409534582505208"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "自由民主党千葉県第四選挙区支部長-木村てつや事務所-409534582505208"
       }
     }, {
       "party" : {
@@ -28936,14 +29936,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kushidaseiichi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kushidaseiichi"
       }
     }, {
       "party" : {
@@ -29043,14 +30043,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kazuma.nakatani"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kazuma.nakatani"
       }
     }, {
       "party" : {
@@ -29252,14 +30252,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "m.aoyama.kouenkai"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "m.aoyama.kouenkai"
       }
     }, {
       "party" : {
@@ -29359,14 +30359,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "masayuki.aoyama1"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "masayuki.aoyama1"
       }
     }, {
       "party" : {
@@ -29466,14 +30466,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "SekiKenichiro88"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "SekiKenichiro88"
       }
     }, {
       "party" : {
@@ -29675,14 +30675,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "taro.honda.90"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyoto 5th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "taro.honda.90"
       }
     }, {
       "party" : {
@@ -29885,14 +30885,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "shu.sakurai.7"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "shu.sakurai.7"
       }
     }, {
       "party" : {
@@ -29992,14 +30992,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "nishiokahideko.nagasaki"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Nagasaki 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "nishiokahideko.nagasaki"
       }
     }, {
       "party" : {
@@ -30099,14 +31099,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hiyoshiyuta"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hiyoshiyuta"
       }
     }, {
       "party" : {
@@ -30206,14 +31206,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "masahiro.kohmura"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Yamaguchi 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "masahiro.kohmura"
       }
     }, {
       "party" : {
@@ -30313,14 +31313,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "ota.masataka"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokuriku-Shin'etsu proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "ota.masataka"
       }
     }, {
       "party" : {
@@ -30420,14 +31420,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "nini7kei"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Northern Kantō proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "nini7kei"
       }
     }, {
       "party" : {
@@ -30527,14 +31527,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "rentarou.katayama"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Northern Kantō proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "rentarou.katayama"
       }
     }, {
       "party" : {
@@ -31041,14 +32041,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "MamoruShigemoto"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "MamoruShigemoto"
       }
     }, {
       "party" : {
@@ -31251,14 +32251,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takao.ando.395"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takao.ando.395"
       }
     }, {
       "party" : {
@@ -31461,14 +32461,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Takagi.togi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "Takagi.togi"
       }
     }, {
       "party" : {
@@ -31774,14 +32774,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "akiko.kamei.official"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chūgoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "akiko.kamei.official"
       }
     }, {
       "party" : {
@@ -32086,14 +33086,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "otsujiosaka"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "otsujiosaka"
       }
     }, {
       "party" : {
@@ -32296,14 +33296,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "seiko.noda.73"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gifu 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "seiko.noda.73"
       }
     }, {
       "party" : {
@@ -32609,14 +33609,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "IchiroAISAWA"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Okayama 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "IchiroAISAWA"
       }
     }, {
       "party" : {
@@ -32920,14 +33920,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "akira.kasai1"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "akira.kasai1"
       }
     }, {
       "party" : {
@@ -33227,14 +34227,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "ishihara.hirotaka.18"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo 3rd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "ishihara.hirotaka.18"
       }
     }, {
       "party" : {
@@ -33334,14 +34334,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "chinami.nishimura"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Niigata 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "chinami.nishimura"
       }
     }, {
       "party" : {
@@ -33441,14 +34441,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100006085722650"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tohoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100006085722650"
       }
     }, {
       "party" : {
@@ -33548,14 +34548,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "katsuyaokada"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mie 3rd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "katsuyaokada"
       }
     }, {
       "party" : {
@@ -34161,14 +35161,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kharagucih"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Saga 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kharagucih"
       }
     }, {
       "party" : {
@@ -34268,14 +35268,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "matsumoto.fumiaki"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "matsumoto.fumiaki"
       }
     }, {
       "party" : {
@@ -34375,14 +35375,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "gaku.hashimoto.3"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Okayama 4th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "gaku.hashimoto.3"
       }
     }, {
       "party" : {
@@ -34482,14 +35482,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "gen.nakatani.1"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kochi 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "gen.nakatani.1"
       }
     }, {
       "party" : {
@@ -34997,14 +35997,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "HidekiMacky"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Northern Kantō proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "HidekiMacky"
       }
     }, {
       "party" : {
@@ -35104,14 +36104,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hideki.niwa.148"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Aichi 6th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hideki.niwa.148"
       }
     }, {
       "party" : {
@@ -35309,14 +36309,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "matsunohirokazu"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chiba 3rd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "matsunohirokazu"
       }
     }, {
       "party" : {
@@ -35519,14 +36519,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kajiyama.hiroshi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Ibaraki 4th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kajiyama.hiroshi"
       }
     }, {
       "party" : {
@@ -35724,14 +36724,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "oogushihiroshi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Saga 2nd District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "oogushihiroshi"
       }
     }, {
       "party" : {
@@ -36134,14 +37134,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "tatsuya.ito.18"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo 22nd District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "tatsuya.ito.18"
       }
     }, {
       "party" : {
@@ -36344,14 +37344,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "JunMatsumoto411"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kanagawa 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "JunMatsumoto411"
       }
     }, {
       "party" : {
@@ -36451,14 +37451,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "小川淳也-100002343830458"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Shikoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "小川淳也-100002343830458"
       }
     }, {
       "party" : {
@@ -36558,14 +37558,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "tajimakaname"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "tajimakaname"
       }
     }, {
       "party" : {
@@ -37075,14 +38075,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kazuyoshi.akaba"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hyogo 2nd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kazuyoshi.akaba"
       }
     }, {
       "party" : {
@@ -37182,14 +38182,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kazuyuki.nakane.75"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Northern Kantō proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kazuyuki.nakane.75"
       }
     }, {
       "party" : {
@@ -37392,14 +38392,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kokutakeiji"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kokutakeiji"
       }
     }, {
       "party" : {
@@ -37499,14 +38499,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100002781598616"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Northern Kantō proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100002781598616"
       }
     }, {
       "party" : {
@@ -37811,14 +38811,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100003561880790"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Shiga 2nd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100003561880790"
       }
     }, {
       "party" : {
@@ -37918,14 +38918,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "edakenji"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kanagawa 8th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "edakenji"
       }
     }, {
       "party" : {
@@ -38025,14 +39025,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "wakamiyakenji"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo 5th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "wakamiyakenji"
       }
     }, {
       "party" : {
@@ -38132,14 +39132,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kenta.izumi.9"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyoto 3rd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kenta.izumi.9"
       }
     }, {
       "party" : {
@@ -38337,14 +39337,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "toyama.kiyohiko1"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyūshū"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "toyama.kiyohiko1"
       }
     }, {
       "party" : {
@@ -38444,14 +39444,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "koichi.hagiuda"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo 4th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "koichi.hagiuda"
       }
     }, {
       "party" : {
@@ -38551,14 +39551,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100004153819189"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hyogo 5th District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100004153819189"
       }
     }, {
       "party" : {
@@ -38760,14 +39760,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kouj.sato"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hiroshima 6th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "kouj.sato"
       }
     }, {
       "party" : {
@@ -39067,14 +40067,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "shinjiro.koizumi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kanagawa 11th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "shinjiro.koizumi"
       }
     }, {
       "party" : {
@@ -39374,14 +40374,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "teratamanabu"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tohoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "teratamanabu"
       }
     }, {
       "party" : {
@@ -39480,15 +40480,15 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tokyo 4th district"
       },
       "facebook" : {
         "type" : "literal",
         "value" : "masaaki.taira.7"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tokyo 4th district"
       }
     }, {
       "party" : {
@@ -39588,14 +40588,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "tairamasaaki"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo 4th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "tairamasaaki"
       }
     }, {
       "party" : {
@@ -39797,14 +40797,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100004704792867"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyūshū"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100004704792867"
       }
     }, {
       "party" : {
@@ -39904,14 +40904,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "moriyama.masahito"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hyogo 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "moriyama.masahito"
       }
     }, {
       "party" : {
@@ -40217,14 +41217,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "gotoda.masazumi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokushima 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "gotoda.masazumi"
       }
     }, {
       "party" : {
@@ -40427,14 +41427,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "michiyohi.yunoki"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chūgoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "michiyohi.yunoki"
       }
     }, {
       "party" : {
@@ -41041,14 +42041,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yamaguchi244"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hyogo 12th District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yamaguchi244"
       }
     }, {
       "party" : {
@@ -41148,14 +42148,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "noriko.furuya514"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "noriko.furuya514"
       }
     }, {
       "party" : {
@@ -41564,14 +42564,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "伊吹-文明-306388919504640"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kyoto 1st District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "伊吹-文明-306388919504640"
       }
     }, {
       "party" : {
@@ -42374,14 +43374,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Seiji.Ohsaka"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido 8th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "Seiji.Ohsaka"
       }
     }, {
       "party" : {
@@ -42584,14 +43584,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "nakatani80"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Southern Kanto proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "nakatani80"
       }
     }, {
       "party" : {
@@ -42793,14 +43793,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100015878027926"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Nagano 4th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "100015878027926"
       }
     }, {
       "party" : {
@@ -43101,14 +44101,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "inoue.s.net"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo 25th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "inoue.s.net"
       }
     }, {
       "party" : {
@@ -43208,14 +44208,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "okuno.shinsuke"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "okuno.shinsuke"
       }
     }, {
       "party" : {
@@ -43925,14 +44925,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "itoh.tadahiko"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Aichi 8th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "itoh.tadahiko"
       }
     }, {
       "party" : {
@@ -44134,14 +45134,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takahiro.sasaki.54966"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido 6th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takahiro.sasaki.54966"
       }
     }, {
       "party" : {
@@ -44241,14 +45241,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takamori.yoshikawa"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokkaido 2nd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takamori.yoshikawa"
       }
     }, {
       "party" : {
@@ -44348,14 +45348,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takao.ochi.9"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takao.ochi.9"
       }
     }, {
       "party" : {
@@ -44964,14 +45964,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takunetwork"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hokuriku-Shin'etsu proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takunetwork"
       }
     }, {
       "party" : {
@@ -45071,14 +46071,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hiraitakuya"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kagawa 1st District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "hiraitakuya"
       }
     }, {
       "party" : {
@@ -45687,14 +46687,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "endo.toshiaki0117"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Yamagata 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "endo.toshiaki0117"
       }
     }, {
       "party" : {
@@ -45794,14 +46794,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "toshiko.abe.313"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Okayama 3rd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "toshiko.abe.313"
       }
     }, {
       "party" : {
@@ -46307,14 +47307,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "komei.itowataru"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "komei.itowataru"
       }
     }, {
       "party" : {
@@ -46414,14 +47414,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "tanigawayaichi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Nagasaki 3rd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "tanigawayaichi"
       }
     }, {
       "party" : {
@@ -46726,14 +47726,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "ozato.yasuhiro"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kagoshima 3rd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "ozato.yasuhiro"
       }
     }, {
       "party" : {
@@ -46833,14 +47833,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yasko.komiyama"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Northern Kantō proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yasko.komiyama"
       }
     }, {
       "party" : {
@@ -46940,14 +47940,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yasushi.kaneko.7"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kumamoto 4th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yasushi.kaneko.7"
       }
     }, {
       "party" : {
@@ -47047,14 +48047,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yasutoshi.nisimura"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hyogo 9th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yasutoshi.nisimura"
       }
     }, {
       "party" : {
@@ -47355,14 +48355,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yoko.wanibuchi"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yoko.wanibuchi"
       }
     }, {
       "party" : {
@@ -47462,14 +48462,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Yoshiaki4192"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Fukuoka 5th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "Yoshiaki4192"
       }
     }, {
       "party" : {
@@ -47569,14 +48569,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "sekiyoshihiro"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hyogo 3rd District"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "sekiyoshihiro"
       }
     }, {
       "party" : {
@@ -47779,14 +48779,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yoshio.maki.71"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tōkai proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yoshio.maki.71"
       }
     }, {
       "party" : {
@@ -48086,14 +49086,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "yoshitami.kameoka"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tohoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "yoshitami.kameoka"
       }
     }, {
       "party" : {
@@ -48296,14 +49296,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "satoyukari.japan"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kinki proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "satoyukari.japan"
       }
     }, {
       "party" : {
@@ -48506,14 +49506,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "banri.kaieda"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "banri.kaieda"
       }
     }, {
       "party" : {
@@ -48715,14 +49715,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "komei.tetsuosaito"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chūgoku proportional representation block"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "komei.tetsuosaito"
       }
     }, {
       "party" : {
@@ -49130,14 +50130,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "naoto.kan"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Tokyo 18th district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "naoto.kan"
       }
     }, {
       "party" : {
@@ -49237,14 +50237,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "takeshi.shina"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Iwate 1st district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "takeshi.shina"
       }
     }, {
       "party" : {
@@ -49844,14 +50844,14 @@
         "type" : "literal",
         "value" : "2017-10-22T00:00:00Z"
       },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "tadamori.oshima"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Aomori 2nd district"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "tadamori.oshima"
       }
     }, {
       "party" : {

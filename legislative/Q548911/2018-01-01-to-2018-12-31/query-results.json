@@ -16743,6 +16743,76 @@
         "value" : "1998-07-26T00:00:00Z"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q418691-43a2e754-4ee2-62af-8770-17ff8b826c5c"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14552828"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Councillors"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "参議院議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q418691"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "郡司彰"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q548911"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Councillors"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "参議院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "242"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Akira Gunji"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-08-01T00:00:00Z"
+      }
+    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q641600"
@@ -17424,6 +17494,75 @@
         "value" : "Akira Hatano"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q474554-5ABC7827-D406-4912-9A98-5D2968D3DA25"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14552828"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Councillors"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "参議院議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q474554"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "中川雅治"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q548911"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Councillors"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "参議院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "242"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Masaharu Nakagawa"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "nakagawa.masaharu.tokyo"
+      }
+    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q232595"
@@ -17515,75 +17654,6 @@
         "xml:lang" : "ja",
         "type" : "literal",
         "value" : "東京都選挙区"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "nakagawa.masaharu.tokyo"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q474554-5ABC7827-D406-4912-9A98-5D2968D3DA25"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q14552828"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the House of Councillors"
-      },
-      "role_ja" : {
-        "xml:lang" : "ja",
-        "type" : "literal",
-        "value" : "参議院議員"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q474554"
-      },
-      "name_ja" : {
-        "xml:lang" : "ja",
-        "type" : "literal",
-        "value" : "中川雅治"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q548911"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "House of Councillors"
-      },
-      "org_ja" : {
-        "xml:lang" : "ja",
-        "type" : "literal",
-        "value" : "参議院"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "242"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Masaharu Nakagawa"
       },
       "facebook" : {
         "type" : "literal",
@@ -22369,6 +22439,85 @@
       },
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7426414-2511b096-442b-668f-cd52-0d443ea809db"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14552828"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Councillors"
+      },
+      "role_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "参議院議員"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7426414"
+      },
+      "name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "二之湯智"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q548911"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Councillors"
+      },
+      "org_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "参議院"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "242"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Satoshi Ninoyu"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q232595"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberal Democratic Party"
+      },
+      "party_name_ja" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "自由民主党"
+      },
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7426414-1ddcbc0b-45ca-be8a-de23-6e39ea8880cb"
       },
       "role_superclass" : {
@@ -22444,85 +22593,6 @@
         "xml:lang" : "ja",
         "type" : "literal",
         "value" : "京都府選挙区"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q232595"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberal Democratic Party"
-      },
-      "party_name_ja" : {
-        "xml:lang" : "ja",
-        "type" : "literal",
-        "value" : "自由民主党"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7426414-2511b096-442b-668f-cd52-0d443ea809db"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q14552828"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the House of Councillors"
-      },
-      "role_ja" : {
-        "xml:lang" : "ja",
-        "type" : "literal",
-        "value" : "参議院議員"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7426414"
-      },
-      "name_ja" : {
-        "xml:lang" : "ja",
-        "type" : "literal",
-        "value" : "二之湯智"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q548911"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "House of Councillors"
-      },
-      "org_ja" : {
-        "xml:lang" : "ja",
-        "type" : "literal",
-        "value" : "参議院"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "242"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Satoshi Ninoyu"
       }
     }, {
       "party" : {
