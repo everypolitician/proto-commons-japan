@@ -1,0 +1,113 @@
+WARNING: no position found for the legislature Kyōto Prefectural Assembly
+WARNING: no position found for the legislature Saga Prefectural Assembly
+WARNING: no position found for the legislature Hyōgo Prefectural Assembly
+WARNING: no position found for the legislature Hokkaidō Prefectural Assembly
+WARNING: no position found for the legislature Chiba Prefectural Assembly
+WARNING: no position found for the legislature Wakayama Prefectural Assembly
+WARNING: no position found for the legislature Saitama Prefectural Assembly
+WARNING: no position found for the legislature Ōita Prefectural Assembly
+WARNING: no position found for the legislature Osaka Prefectural Assembly
+WARNING: no position found for the legislature Nara Prefectural Assembly
+WARNING: no position found for the legislature Miyagi Prefectural Assembly
+WARNING: no position found for the legislature Miyazaki Prefectural Assembly
+WARNING: no position found for the legislature Toyama Prefectural Assembly
+WARNING: no position found for the legislature Yamaguchi Prefectural Assembly
+WARNING: no position found for the legislature Yamagata Prefectural Assembly
+WARNING: no position found for the legislature Yamanashi Prefectural Assembly
+WARNING: no position found for the legislature Gifu Prefectural Assembly
+WARNING: no position found for the legislature Okayama Prefectural Assembly
+WARNING: no position found for the legislature Iwate Prefectural Assembly
+WARNING: no position found for the legislature Shimane Prefectural Assembly
+WARNING: no position found for the legislature Hiroshima Prefectural Assembly
+WARNING: no position found for the legislature Tokushima Prefectural Assembly
+WARNING: no position found for the legislature Ehime Prefectural Assembly
+WARNING: no position found for the legislature Niigata Prefectural Assembly
+WARNING: no position found for the legislature Tochigi Prefectural Assembly
+WARNING: no position found for the legislature Shiga Prefectural Assembly
+WARNING: no position found for the legislature Kumamoto Prefectural Assembly
+WARNING: no position found for the legislature Ishikawa Prefectural Assembly
+WARNING: no position found for the legislature Kanagawa Prefectural Assembly
+WARNING: no position found for the legislature Fukui Prefectural Assembly
+WARNING: no position found for the legislature Fukuoka Prefectural Assembly
+WARNING: no position found for the legislature Fukushima Prefectural Assembly
+WARNING: no position found for the legislature Akita Prefectural Assembly
+WARNING: no position found for the legislature Gunma Prefectural Assembly
+WARNING: no position found for the legislature Ibaraki Prefectural Assembly
+WARNING: no position found for the legislature Nagasaki Prefectural Assembly
+WARNING: no position found for the legislature Nagano Prefectural Assembly
+WARNING: no position found for the legislature Aomori Prefectural Assembly
+WARNING: no position found for the legislature Shizuoka Prefectural Assembly
+WARNING: no position found for the legislature Kagawa Prefectural Assembly
+WARNING: no position found for the legislature Kōchi Prefectural Assembly
+WARNING: no position found for the legislature Tottori Prefectural Assembly
+WARNING: no position found for the legislature Kagoshima Prefectural Assembly
+WARNING: no position found for the legislature Aichi Prefectural Assembly
+WARNING: no position found for the legislature Mie Prefectural Assembly
+WARNING: no position found for the legislature Okinawa Prefectural Assembly
+WARNING: no position found for the legislature Tokyo Metropolitan Assembly
+WARNING: no position found for the legislature Saitama City Council
+WARNING: no position found for the legislature 名古屋市会
+WARNING: no position found for the legislature 堺市議会
+WARNING: no position found for the legislature 大阪市会
+WARNING: no position found for the legislature 広島市議会
+WARNING: no position found for the legislature 新潟市議会
+WARNING: no position found for the legislature Chiba City Assembly
+WARNING: no position found for the legislature 神戸市会
+WARNING: no position found for the legislature Kyoto City Assembly
+WARNING: no position found for the legislature 和歌山市議会
+WARNING: no position found for the legislature 奈良市議会
+WARNING: no position found for the legislature 大津市議会
+WARNING: no position found for the legislature 徳島市議会
+WARNING: no position found for the legislature Naha City Assembly
+WARNING: no position found for the legislature 札幌市議会
+WARNING: no position found for the legislature 福岡市議会
+WARNING: no position found for the legislature Kitakyūshū city council
+WARNING: no position found for the legislature 仙台市議会
+WARNING: no position found for the legislature 港区議会
+WARNING: no position found for the legislature 新宿区議会
+WARNING: no position found for the legislature 墨田区議会
+WARNING: no position found for the legislature 江東区議会
+WARNING: no position found for the legislature 品川区議会
+WARNING: no position found for the legislature 目黒区議会
+WARNING: no position found for the legislature 大田区議会
+WARNING: no position found for the legislature 世田谷区議会
+WARNING: no position found for the legislature 中野区議会
+WARNING: no position found for the legislature 杉並区議会
+WARNING: no position found for the legislature 豊島区議会
+WARNING: no position found for the legislature 北区議会
+WARNING: no position found for the legislature 板橋区議会
+WARNING: no position found for the legislature 足立区議会
+WARNING: no position found for the legislature 練馬区議会
+WARNING: no position found for the legislature 葛飾区議会
+WARNING: no position found for the legislature 江戸川区議会
+WARNING: no position found for the legislature 高知市議会
+WARNING: no position found for the legislature 高松市議会
+WARNING: no position found for the legislature 熊本市議会
+WARNING: no position found for the legislature 横浜市会
+WARNING: no position found for the legislature 松戸市議会
+WARNING: no position found for the legislature Koshigaya City Assembly
+WARNING: no position found for the legislature Tokorozawa City Council
+WARNING: no position found for the legislature 岡山市議会
+WARNING: no position found for the legislature 川崎市議会
+WARNING: no position found for the legislature 相模原市議会
+WARNING: no position found for the legislature Shizuoka city council
+WARNING: no position found for the legislature 浜松市議会
+WARNING: no position found for the legislature 藤沢市議会
+WARNING: no position found for the legislature Yokosuka city council
+WARNING: no position found for the legislature 平塚市議会
+WARNING: no position found for the legislature 前橋市議会
+WARNING: no position found for the legislature 町田市議会
+WARNING: no position found for the legislature 大分市議会
+WARNING: no position found for the legislature 川越市議会
+WARNING: no position found for the legislature 富山市議会
+WARNING: no position found for the legislature Iwaki municipal council
+WARNING: no position found for the legislature 船橋市議会
+WARNING: no position found for the legislature Okazaki city council
+WARNING: no position found for the legislature 旭川市議会
+WARNING: no position found for the legislature 宇都宮市議会
+WARNING: no position found for the legislature 鹿児島市議会
+WARNING: no position found for the legislature 青森市議会
+WARNING: no position found for the legislature 八王子市議会
+WARNING: no position found for the legislature 柏市議会
+WARNING: no position found for the legislature 豊田市議会
+WARNING: no position found for the legislature 豊橋市議会
