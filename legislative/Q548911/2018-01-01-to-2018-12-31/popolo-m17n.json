@@ -3598,10 +3598,6 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/nakagawa.masaharu.tokyo"
-        },
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/nakagawa.masaharu.tokyo"
         }
       ]
     },
@@ -8464,6 +8460,21 @@
       "id": "http://www.wikidata.org/entity/statement/Q4121055-3356D253-410D-4451-A087-70DAD179FFEB",
       "person_id": "Q4121055",
       "organization_id": "Q548911",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q14552828",
+      "role": {
+        "lang:ja": "参議院議員",
+        "lang:en": "member of the House of Councillors"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q418691-43a2e754-4ee2-62af-8770-17ff8b826c5c",
+      "person_id": "Q418691",
+      "organization_id": "Q548911",
+      "start_date": "2016-08-01",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator"

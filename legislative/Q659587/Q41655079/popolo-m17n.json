@@ -187,6 +187,25 @@
     },
     {
       "name": {
+        "lang:ja": "上西小百合",
+        "lang:en": "Sayuri Uenishi"
+      },
+      "id": "Q11360103",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11360103"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/uenishi.sayuri"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:ja": "上野宏史",
         "lang:en": "Hiroshi Ueno"
       },
@@ -8681,6 +8700,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q1133192-D5733047-060F-42C4-AB94-327CDDB8A7A6",
+      "person_id": "Q1133192",
+      "on_behalf_of_id": "Q232595",
+      "organization_id": "Q659587",
+      "area_id": "Q11476527",
+      "start_date": "1990-01-01",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:ja": "国民議会議員",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q17506823",
+      "role": {
+        "lang:ja": "衆議院議員",
+        "lang:en": "member of the House of Representatives of Japan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q1133194-3D809E49-92EB-408B-9560-EB33C57F6D9A",
       "person_id": "Q1133194",
       "on_behalf_of_id": "Q232595",
@@ -8777,6 +8814,22 @@
       "organization_id": "Q659587",
       "area_id": "Q7570062",
       "start_date": "2017-10-22",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:ja": "国民議会議員",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q17506823",
+      "role": {
+        "lang:ja": "衆議院議員",
+        "lang:en": "member of the House of Representatives of Japan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11360103-43ed078a-40bf-105b-ec66-7c535eb3c51e",
+      "person_id": "Q11360103",
+      "organization_id": "Q659587",
+      "start_date": "2012-01-01",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:ja": "国民議会議員",
@@ -10877,6 +10930,60 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q11596723-b1c9378a-4808-04f8-d014-cd182f739df8",
+      "person_id": "Q11596723",
+      "on_behalf_of_id": "Q1061354",
+      "organization_id": "Q659587",
+      "area_id": "Q11402999",
+      "start_date": "2012-12-16",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:ja": "国民議会議員",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q17506823",
+      "role": {
+        "lang:ja": "衆議院議員",
+        "lang:en": "member of the House of Representatives of Japan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11596723-be2ee368-4076-b434-8923-b14ea8843d2f",
+      "person_id": "Q11596723",
+      "on_behalf_of_id": "Q1061354",
+      "organization_id": "Q659587",
+      "area_id": "Q11402999",
+      "start_date": "2014-12-14",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:ja": "国民議会議員",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q17506823",
+      "role": {
+        "lang:ja": "衆議院議員",
+        "lang:en": "member of the House of Representatives of Japan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11596723-c835b0ac-4d73-bb34-1499-c1718835ffdd",
+      "person_id": "Q11596723",
+      "on_behalf_of_id": "Q1061354",
+      "organization_id": "Q659587",
+      "area_id": "Q5878130",
+      "start_date": "2009-08-31",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:ja": "国民議会議員",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q17506823",
+      "role": {
+        "lang:ja": "衆議院議員",
+        "lang:en": "member of the House of Representatives of Japan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q11597257-3A4B09AE-A7FC-47CD-A073-E1278081D87A",
       "person_id": "Q11597257",
       "on_behalf_of_id": "Q232595",
@@ -12586,6 +12693,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21655823-332c901b-46d4-11ac-9ec9-c64a37a9ea93",
+      "person_id": "Q21655823",
+      "organization_id": "Q659587",
+      "start_date": "2014-12-01",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:ja": "国民議会議員",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q17506823",
+      "role": {
+        "lang:ja": "衆議院議員",
+        "lang:en": "member of the House of Representatives of Japan"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23907516-AE547358-2D61-4700-8079-6554036E28E3",
       "person_id": "Q23907516",
       "on_behalf_of_id": "Q232595",
@@ -12700,6 +12823,23 @@
       "organization_id": "Q659587",
       "area_id": "Q376715",
       "start_date": "2017-10-22",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:ja": "国民議会議員",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q17506823",
+      "role": {
+        "lang:ja": "衆議院議員",
+        "lang:en": "member of the House of Representatives of Japan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q265174-f9d8d470-4d41-87b4-9257-b9cd6a7a6208",
+      "person_id": "Q265174",
+      "organization_id": "Q659587",
+      "area_id": "Q376715",
+      "start_date": "2012-01-01",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:ja": "国民議会議員",

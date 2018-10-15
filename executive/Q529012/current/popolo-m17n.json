@@ -76,10 +76,10 @@
       "person_id": "Q41556",
       "organization_id": "Q529012",
       "area_id": "Q17",
-      "role_superclass_code": "Q274948",
+      "role_superclass_code": "Q14212",
       "role_superclass": {
-        "lang:ja": "内閣総理大臣",
-        "lang:en": "Prime Minister of Japan"
+        "lang:ja": "首相",
+        "lang:en": "prime minister"
       },
       "role_code": "Q274948",
       "role": {
@@ -94,10 +94,10 @@
       "organization_id": "Q529012",
       "area_id": "Q17",
       "start_date": "2012-12-26",
-      "role_superclass_code": "Q274948",
+      "role_superclass_code": "Q14212",
       "role_superclass": {
-        "lang:ja": "内閣総理大臣",
-        "lang:en": "Prime Minister of Japan"
+        "lang:ja": "首相",
+        "lang:en": "prime minister"
       },
       "role_code": "Q274948",
       "role": {
